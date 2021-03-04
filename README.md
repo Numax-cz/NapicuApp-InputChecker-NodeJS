@@ -1,4 +1,4 @@
-# Napicu-login-register-System NodeJS
+# NapicuApp Input Checker NodeJS
 # Jednoduché nastavení
 * Jednoduché nastavení načte výchozí parametry z `config.js` a `config_lang.js`
 ```js
